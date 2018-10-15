@@ -1,9 +1,7 @@
-section{
-    border: 1px solid black;
+body{
+    border: 5px solid black;
     border-collapse: collapse;
 }
-
-th,td {
-    padding: 5px;
-    text-align: left;
+p{
+    text-align: center;
 }
